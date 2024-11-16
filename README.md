@@ -18,7 +18,7 @@ Desarrollo: Se realiza una demo de un proyecto que cubre los siguientes temas:
   ○ idf.py menuconfig
     ■ Opción ESP System Settings > Interrupt Watchdog (apagado),Enable Task Watchdog Timer (apagado)
     
-<img align="center" alt="Custom-Image" height="30" width="40" src="https://raw.githubusercontent.comGithub\photo.png">
+<img align="center" alt="Custom-Image" height="30" width="40" src="https://raw.githubusercontent.com\Github\photo.png">
 
 ● Agregamos una biblioteca para el componente LED RGB (https://components.espressif.com/components/espressif/led_strip )
   ○ idf.py add-dependency "espressif/led_strip^3.0.0"
