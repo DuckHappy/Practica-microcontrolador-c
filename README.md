@@ -34,6 +34,9 @@ Desarrollo: Se realiza una demo de un proyecto que cubre los siguientes temas:
   ○ idf.py flash
 
 
+RECOMIENDO PARA TANTO RELOJ.C Y PULSE_LED.C PROBARLOS EN DOS CARPETAS DISTINTAS.
+
+
 
 
   
