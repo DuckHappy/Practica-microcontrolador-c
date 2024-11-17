@@ -1,1 +1,0 @@
-Agregar una IRQ externa que permita cambiar el color del led. Utilice un botón conectado a una entrada GPIO.
